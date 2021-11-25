@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>scene on John Duong</title>
-    <link>https://johnduongoc.github.io/john_portfolio/tags/scene/</link>
+    <link>https://johnduong.com/tags/scene/</link>
     <description>Recent content in scene on John Duong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://johnduongoc.github.io/john_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://johnduong.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Data Analyst Capstone - Cyclist</title>
-      <link>https://johnduongoc.github.io/john_portfolio/post/chapter-1/</link>
+      <link>https://johnduong.com/post/chapter-1/</link>
       <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://johnduongoc.github.io/john_portfolio/post/chapter-1/</guid>
+      <guid>https://johnduong.com/post/chapter-1/</guid>
       <description>This is my Google Data Analyst capstone project where I provide insights from a dataset to help create a marketing campaign. I used Excel to organize the time format, deleted blank unusable rows, and found null values from improper calculations. Followed by using SQL to derive actionable insights that I then later visualized with Tableau.
  Link to Github Repository</description>
     </item>
