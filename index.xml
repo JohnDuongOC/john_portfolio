@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Duong</title>
+    <link>https://johnduongoc.github.io/john_portfolio/</link>
+    <description>Recent content on John Duong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Oct 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://johnduongoc.github.io/john_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Data Analyst Capstone - Cyclist</title>
+      <link>https://johnduongoc.github.io/john_portfolio/post/chapter-1/</link>
+      <pubDate>Sat, 09 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://johnduongoc.github.io/john_portfolio/post/chapter-1/</guid>
+      <description>This is my Google Data Analyst capstone project where I provide insights from a dataset to help create a marketing campaign. I used Excel to organize the time format, deleted blank unusable rows, and found null values from improper calculations. Followed by using SQL to derive actionable insights that I then later visualized with Tableau.
+ Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Nashville Housing SQL Data Cleaning</title>
+      <link>https://johnduongoc.github.io/john_portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://johnduongoc.github.io/john_portfolio/post/chapter-2/</guid>
+      <description>In this project provided by Alex the Analyst Youtube series, I was able to practice writing SQL queries and improve my data cleaning skills.
+ Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://johnduongoc.github.io/john_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnduongoc.github.io/john_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/johntanduong/   Github: https://github.com/JohnDuongOC    </description>
+    </item>
+    
+  </channel>
+</rss>
